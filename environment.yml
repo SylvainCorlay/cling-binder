@@ -1,0 +1,5 @@
+name: cling
+channels:
+  - SylvainCorlay
+dependencies:
+  - cling
