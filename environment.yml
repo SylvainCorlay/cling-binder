@@ -2,4 +2,4 @@ name: cling
 channels:
   - SylvainCorlay
 dependencies:
-  - cling >=0.0.2
+  - cling >=0.0.3
