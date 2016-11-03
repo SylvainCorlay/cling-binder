@@ -5,4 +5,4 @@ channels:
   - SylvainCorlay
 dependencies:
   - cling >=0.0.3
-  - jupyterlab
+  - xtensor
